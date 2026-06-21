@@ -89,7 +89,7 @@ Permisos de administrador (necesarios para algunas opciones)
 Creado por Hugo Arcones
 Proyecto personal para aprender y practicar administración de redes con PowerShell.
 <br><br>
-<br<br>
+<br>
 
 ⭐ Nota final
 

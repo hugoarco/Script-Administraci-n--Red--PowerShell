@@ -1,8 +1,12 @@
 <h1 align = "center" >🌐 Network Diagnostic Toolkit </h1>
 
 Este es un script interactivo hecho en PowerShell que incluye un menú con varias herramientas básicas de red. Está pensado para facilitar tareas de diagnóstico y administración de red desde la consola de Windows.
-
-Es un proyecto sencillo pero muy útil para aprender y practicar comandos de red en PowerShell.
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+  <img src="https://img.shields.io/badge/Status-Finished-brightgreen">
+</p>
 
 <br><br>
 
